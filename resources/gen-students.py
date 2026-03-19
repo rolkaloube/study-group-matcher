@@ -120,7 +120,6 @@ for student in students:
 
         output.write('"')
         output.write(";".join(map(format_appointment, appointments)))
-        output.write('",')
 
     output.write("\n")
 
