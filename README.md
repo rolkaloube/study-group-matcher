@@ -18,8 +18,8 @@ A study group matching tool that allows students to enter their name and select 
 ### Beyond MVP
 
 - Take input from a Google calendar (or other groupware product) instead of preformatted CSV
-- Improve the sample data generator to fix the bunching of appointments in the morning
-- Avoid pairing students who already matched for the last study session
+- Prefer keeping consistent groups of students together
+- Allow students to "block" other students (refuse to participate in their groups)
 - Develop an API or CLI that takes dynamic inputs and returns results for different services. Examples:
   - API endpoint: `GET /study-group?course=CISC-210&size=4`
   - CLI command: `study-group --course CISC-210 --size 4`
