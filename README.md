@@ -7,7 +7,7 @@ If you're having trouble with a course, it's nice to be able to meet up with you
 ## **MVP:**
 A study group matching tool that allows students to enter their name and select a course for which they want to form a study group. Based on course enrollment data and participant availability, the system automatically generates optimal study groups by maximizing overlapping availability among students. Users can also specify the desired maximum size of the group to tailor the matching process.
 
-Key MVP components:
+Key MVP Components:
 * User inputs: course selection and desired group size
 * Data inputs: student course enrollments and availability
 * Output: optimized study groups and schedules
