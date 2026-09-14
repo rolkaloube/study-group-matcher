@@ -20,7 +20,7 @@ Key MVP Components:
   * API endpoint: `GET /study-group?course=CISC-210&size=4`
   * CLI command: `study-group --course CISC-210 --size 4`
 
-## **Available resources:**
+## **Available Resources:**
 * Example students and their freetime: [students.csv](./resources/students.csv)
 * Code used to generate the above: [gen-students.py](./resources/gen-students.py)
 * Generate simple visual representations of appointments: [graph-students.py](./resources/graph-students.py)
